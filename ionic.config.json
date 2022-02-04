@@ -1,0 +1,8 @@
+{
+  "name": "CloneNubank",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c22991a8"
+}
